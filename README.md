@@ -4,4 +4,4 @@ This password-enabled locking system unlocks if a correct password is entered us
 
 **A demo can be found here:**
 
-[![Password Locking System]](https://youtu.be/YYalMs1uszw)
+[![](http://img.youtube.com/vi/YYalMs1uszw/0.jpg)](http://www.youtube.com/watch?v=YYalMs1uszw "Password Locking System")
